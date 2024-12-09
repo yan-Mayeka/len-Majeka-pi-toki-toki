@@ -8,4 +8,5 @@ Variants: tomo2, sijelo2, kili2, kili3, ete2, ete3, jaki2, jaki3,
 Kulupu version of each non-name glyph is kulupu (Scaler) glyph or kulupu (Scaler) glyph (number)
 
 Fully Stacking and Scaling compatible, and additional Radical Replacement™ combinations (type &)
+Cartouches and long pi are included
 Kerning!!!!
