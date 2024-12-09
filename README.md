@@ -1,4 +1,4 @@
-# len-Majeka-pi-toki-toki
+# len-Majeka-pi-toki-toki UNFINISHED DO NOT INTERACT WIÞ
 len Majeka pi toki toki / linja Majeka pi toki toki's repo
 Len Majeka pi toki toki is a Sitelen Pona font created by jan Majeka.
 
