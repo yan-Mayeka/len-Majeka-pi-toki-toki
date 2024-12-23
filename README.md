@@ -11,11 +11,15 @@ Fully Stacking and Scaling compatible, and additional Radical Replacement™ com
 Cartouches and long pi are included
 Kerning!!!!
 
+![len Majeka pi toki toki shower](https://github.com/user-attachments/assets/7d6f14fa-1024-46f3-bc34-df2c27941b0a)
 
-![len Majeka pi toki toki shower](https://github.com/user-attachments/assets/bfe1438a-226c-4b91-a5e5-f9508b17765c)
 
 All glyphs and features
 
-![len Majeka pi toki toki shower features](https://github.com/user-attachments/assets/72e84b8e-f9d8-4541-b693-cadf94bfad63)
+![len Majeka pi toki toki shower non prac](https://github.com/user-attachments/assets/f00e3192-41f3-4f63-ad66-b984d79c998b)
 
 & is how you type Radical Replacement™, there is also double stacking. Here are some constructions using Radical Replacement™.
+
+![len Majeka pi toki toki shower features](https://github.com/user-attachments/assets/88e95d6c-2919-40fc-ab45-4fc004eb2839)
+
+Example sentences and stuff
