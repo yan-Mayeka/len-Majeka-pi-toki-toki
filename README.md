@@ -33,3 +33,5 @@ Example sentences and stuff
 ![Screenshot (1429)](https://github.com/user-attachments/assets/b55e475e-5ed1-491c-88b8-acc0c8fbe7e1)
 
 ZWJ combinations
+
+len Majeka pi toki toki is currently CC-BY-ND, this may be subject to change, if you want to make a derivitive then contact me and we may work something out.
