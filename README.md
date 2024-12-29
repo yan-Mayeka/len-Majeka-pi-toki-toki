@@ -3,9 +3,14 @@ len Majeka pi toki toki / linja Majeka pi toki toki's repo
 Len Majeka pi toki toki is a Sitelen Pona font created by jan Majeka.
 
 Glyphs: nimi pu ale, nimi ku suli, su, majuna, isipin, yupekosi, owe, kulijo, penpo, jonke, ete, tuli (and san), pokasi, kijesankalu, soto, teje, ka, apeja, powe
+
 Name glyphs: Kilo, Lewi, Lipamanka, Majeka, Meki, Stella, Suno Pi Toki Pona, nano, Niko, 
+
 Variants: tomo2, sijelo2, kili2, kili3, ete2, ete3, jaki2, jaki3,
+
 Kulupu version of each non-name glyph is kulupu (Scaler) glyph or kulupu (Scaler) glyph (number)
+
+Zero Width Joiner: luka ZWJ luka, luka ZWJ tu, luka ZWJ tu ZWJ wan, luka ZWJ tuli, luka ZWJ san,
 
 Fully Stacking and Scaling compatible, and additional Radical Replacement™ combinations (type &)
 Cartouches and long pi are included
