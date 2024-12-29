@@ -7,7 +7,7 @@ Glyphs: nimi pu ale, nimi ku suli, su, majuna, isipin, yupekosi, owe, kulijo, pe
 
 Name glyphs: Kilo, Lewi, Lipamanka, Majeka, Meki, Stella, Suno Pi Toki Pona, nano, Niko, 
 
-Variants: tomo2, sijelo2, kili2, kili3, ete2, ete3, jaki2, jaki3,
+Variants: jaki2, jaki3, kili2, kili3, ko2, mute2, seme2, sewi2, sijelo2, namako2, misikeke2, soko2, epiku2, ete2, ete3
 
 Kulupu version of each non-name glyph is kulupu (Scaler) glyph or kulupu (Scaler) glyph (number)
 
