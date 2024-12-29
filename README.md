@@ -1,5 +1,6 @@
 # len-Majeka-pi-toki-toki
 len Majeka pi toki toki / linja Majeka pi toki toki's repo
+
 Len Majeka pi toki toki is a Sitelen Pona font created by jan Majeka.
 
 Glyphs: nimi pu ale, nimi ku suli, su, majuna, isipin, yupekosi, owe, kulijo, penpo, jonke, ete, tuli (and san), pokasi, kijesankalu, soto, teje, ka, apeja, powe
