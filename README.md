@@ -28,3 +28,7 @@ All glyphs and features
 ![len Majeka pi toki toki shower features](https://github.com/user-attachments/assets/88e95d6c-2919-40fc-ab45-4fc004eb2839)
 
 Example sentences and stuff
+
+![Screenshot (1429)](https://github.com/user-attachments/assets/b55e475e-5ed1-491c-88b8-acc0c8fbe7e1)
+
+ZWJ combinations
