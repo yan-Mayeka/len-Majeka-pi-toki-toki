@@ -15,6 +15,7 @@ Zero Width Joiner: luka ZWJ luka, luka ZWJ tu, luka ZWJ tu ZWJ wan, luka ZWJ tul
 
 Fully Stacking and Scaling compatible, and additional Radical Replacement™ combinations (type &)
 Cartouches and long pi are included
+Sitelen Pona radical codepoints!
 Kerning!!!!
 
 ![len Majeka pi toki toki shower](https://github.com/user-attachments/assets/7d6f14fa-1024-46f3-bc34-df2c27941b0a)
