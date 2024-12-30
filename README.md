@@ -14,8 +14,9 @@ Kulupu version of each non-name glyph is kulupu (Scaler) glyph or kulupu (Scaler
 Zero Width Joiner: luka ZWJ luka, luka ZWJ tu, luka ZWJ tu ZWJ wan, luka ZWJ tuli, luka ZWJ san,
 
 Fully Stacking and Scaling compatible, and additional Radical Replacement™ combinations (type &)
+
 Cartouches and long pi are included
-Sitelen Pona radical codepoints!
+
 Kerning!!!!
 
 ![len Majeka pi toki toki shower](https://github.com/user-attachments/assets/7d6f14fa-1024-46f3-bc34-df2c27941b0a)
@@ -35,6 +36,13 @@ Example sentences and stuff
 
 ZWJ combinations
 
+Sitelen Pona radical codepoints!
+![Screenshot (1443)](https://github.com/user-attachments/assets/8d3cb828-aa40-45f5-b99f-8796b4e7527d)
+
+titi pula
+![Screenshot (1444)](https://github.com/user-attachments/assets/b839ac65-ffec-4b8f-86c1-6af2253358ee)
+
+Lig stuff:
 Stacker is written by -
 Scaler is written by +
 Radical Replacer (Wawe) is written by &
