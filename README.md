@@ -35,4 +35,11 @@ Example sentences and stuff
 
 ZWJ combinations
 
+Stacker is written by -
+Scaler is written by +
+Radical Replacer (Wawe) is written by &
+Zero Width Joiner (U+200D) is written by zz
+Cartouche and Pi extentshes are automatically placed, but if you want to manually place one you can by = and _ respectively
+Start and end of Long Pi is written by ( and ) like so pi(sike sama ale)
+
 len Majeka pi toki toki is currently CC-BY-ND, this may be subject to change, if you want to make a derivitive then contact me and we may work something out.
