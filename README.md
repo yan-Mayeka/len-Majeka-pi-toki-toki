@@ -39,9 +39,6 @@ ZWJ combinations
 Sitelen Pona radical codepoints!
 ![Screenshot (1443)](https://github.com/user-attachments/assets/8d3cb828-aa40-45f5-b99f-8796b4e7527d)
 
-titi pula
-![Screenshot (1444)](https://github.com/user-attachments/assets/b839ac65-ffec-4b8f-86c1-6af2253358ee)
-
 Lig stuff:
 
 Stacker is written by -
@@ -55,6 +52,10 @@ Zero Width Joiner (U+200D) is written by zz
 Cartouche and Pi extentshes are automatically placed, but if you want to manually place one you can by = and _ respectively
 
 Start and end of Long Pi is written by ( and ) like so pi(sike sama ale)
+
+
+titi pula
+![Screenshot (1444)](https://github.com/user-attachments/assets/b839ac65-ffec-4b8f-86c1-6af2253358ee)
 
 
 len Majeka pi toki toki is currently CC-BY-ND, this may be subject to change, if you want to make a derivitive then contact me and we may work something out.
